@@ -19,5 +19,4 @@ erDiagram
         timestamp created_at "Record creation timestamp"
         timestamp updated_at "Last update timestamp"
     }
-    }
 ```
